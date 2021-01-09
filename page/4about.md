@@ -15,7 +15,7 @@ type: page
 
 ## 联系我
 
-* GitHub：[Gaohaoyang](https://github.com/zhiming-su)
+* GitHub：[Szm](https://github.com/zhiming-su)
 * email：xxx
 
 
