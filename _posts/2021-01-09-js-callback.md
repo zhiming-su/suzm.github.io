@@ -11,7 +11,6 @@ author: Szm
 ---
 
 * content
-
 {:toc}
 
 学习js call back 方法可以在使用异步方法后执行对应的方法
