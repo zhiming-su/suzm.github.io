@@ -1,5 +1,4 @@
-\---
-
+---
 layout: post
 
 title: "js callback 函数方法的使用"
@@ -9,10 +8,11 @@ categories: JavaScript
 tags: JS callback
 
 author: Szm
+---
 
 ---
 
-*content
+* content
 
 {:toc}
 
